@@ -1,0 +1,7 @@
+[submodule "riscv-isa-sim"]
+	path = riscv-isa-sim
+	url = https://github.com/borja-perez/riscv-isa-sim
+	branch = sparta_integration
+[submodule "map"]
+	path = map
+	url = https://github.com/sparcians/map
